@@ -1,0 +1,58 @@
+.profile_img {
+    height: 200px;
+    width: 200px;
+    /* border: 10px; */
+    /* border-color: aqua; */
+    /* border-style: solid; */
+}
+
+.center {
+    /* border: 10px solid red; */
+    text-align: center;
+    
+}
+
+.center h1 {
+    margin-bottom: 50px;
+}
+
+.lshtm {
+    text-decoration: none;
+}
+
+.lshtm:hover {
+    text-decoration: underline;
+    color: lightgreen;
+}
+
+html{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.diamond_icon{
+    height: 8px;
+    width: 8px;
+    margin: 50px 0;
+
+}
+
+.heading-projects{
+    font-weight: 700;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-style: italic;
+}
+
+.footer img {
+    height: 20px;
+    width: 20px;
+    margin-right: 10px;
+}
+
+p {
+    margin: 25px 0;
+}
